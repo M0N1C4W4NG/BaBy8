@@ -1,2 +1,2 @@
 # BaBy8
-BaBy8 Code
+Code for a BB8 shaped child monitor
